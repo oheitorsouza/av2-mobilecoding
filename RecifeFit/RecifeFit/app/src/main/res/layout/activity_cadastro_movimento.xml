@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CadastroMovimento">
+
+    <TextView
+        android:id="@+id/title_cadastro_adm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="170dp"
+        android:layout_marginTop="56dp"
+        android:layout_marginEnd="183dp"
+        android:text="TextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/cadbutton"
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="150dp"
+        android:layout_height="55dp"
+        android:text="@string/button_registrar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/recHora" />
+
+    <EditText
+        android:id="@+id/recNome"
+        android:layout_width="410dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="22dp"
+        android:ems="10"
+        android:hint="@string/nome_input"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/recLocal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/title_cadastro_adm" />
+
+    <EditText
+        android:id="@+id/recLocal"
+        android:layout_width="410dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="25dp"
+        android:ems="10"
+        android:hint="@string/local_input"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/recHora"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/recNome" />
+
+    <EditText
+        android:id="@+id/recHora"
+        android:layout_width="410dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="5dp"
+        android:ems="10"
+        android:hint="@string/hora_input"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/cadbutton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/recLocal" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+

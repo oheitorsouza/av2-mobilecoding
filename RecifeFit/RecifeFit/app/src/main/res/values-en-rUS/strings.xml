@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecifeFit</string>
+    <string name="Bem_Vindo">Welcome to RecifeFit</string>
+    <string name="nome_input">Name</string>
+    <string name="senha_input">Password</string>
+    <string name="button_entrar">Sign in</string>
+    <string name="button_registrar">Sign up</string>
+    <string name="versao">Version 1.00</string>
+    <string name="logo">image</string>
+    <string name="msgError">wrong username or password</string>
+    <string name="cadastro">Sign up</string>
+    <string name="Email_input">Email</string>
+    <string name="versao_app">Version 1.00</string>
+    <string name="ola">Hello</string>
+    <string name="sobre">About us</string>
+    <string name="sobre_title">About</string>
+    <string name="paragrafo_sobre1">\"RecifeFit\" is focused on solving the following problems: doubts about locations and how to access exercise locations, distance from home to exercise locations, and difficulty in accessing a unified data system that links health indicators and exams to regular exercise practice.</string>
+    <string name="paragrafo_sobre2">Regular exercise is essential for maintaining a healthy lifestyle, even if you have limited time available. In today\'s fast-paced world, finding time for exercise can be challenging, but it\'s crucial for overall well-being. \"RecifeFit\" understands these challenges and aims to provide solutions for individuals who face obstacles in accessing and maintaining a regular exercise routine.  One common challenge is uncertainty about exercise locations and how to access them. \"RecifeFit\" aims to provide accurate information about exercise facilities and their accessibility, making it easier for people to find suitable places to exercise.  Another challenge is the distance between home and exercise locations. \"RecifeFit\" aims to provide information about exercise facilities that are conveniently located to help individuals find options that are closer to their homes, making it more feasible to incorporate exercise into their daily routines.  Additionally, accessing a unified data system that links health indicators and exams to exercise practice can be difficult. \"RecifeFit\" aims to streamline this process, making it easier for individuals to track their progress and stay motivated to exercise regularly.  Regular exercise offers numerous benefits to the human body. It helps to improve cardiovascular health, build strength and endurance, increase flexibility, and maintain a healthy weight. Exercise also promotes mental well-being, reduces stress, and improves mood and cognitive function. Moreover, regular exercise can reduce the risk of chronic diseases such as obesity, diabetes, and heart disease.  In conclusion, even with limited time available, it is important to prioritize regular exercise for overall health and well-being. \"RecifeFit\" is dedicated to addressing the challenges of accessing exercise facilities, reducing distance barriers, and simplifying data tracking to support individuals in maintaining a healthy exercise routine. With the numerous physical and mental health benefits that exercise provides, it is worth investing time and effort into incorporating exercise into your daily routine for a healthier and happier life.</string>
+
+
+</resources>

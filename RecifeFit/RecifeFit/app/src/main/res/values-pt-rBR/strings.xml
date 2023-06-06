@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecifeFit</string>
+    <string name="nome_input">Nome</string>
+    <string name="senha_input">Senha</string>
+    <string name="button_entrar">Entrar</string>
+    <string name="button_registrar">Cadastrar-se</string>
+    <string name="versao">Versão 1.00</string>
+    <string name="logo">logo</string>
+    <string name="Bem_Vindo">Bem vindo ao RecifeFit</string>
+    <string name="msgError">Usuário ou senha incorreta</string>
+    <string name="cadastro">Cadastrar</string>
+    <string name="Email_input">Email</string>
+    <string name="versao_app">Versão 1.00</string>
+    <string name="sobre">Sobre nós</string>
+    <string name="sobre_title">Sobre</string>
+    <string name="paragrafo_sobre1">O RecifeFit é um projeto focado em solucionar os problemas enfrentados por muitas pessoas quando se trata de exercícios físicos. Sabemos que muitas vezes surgem dúvidas sobre locais e como acessá-los, a distância de casa para os locais de prática, e a dificuldade em acessar um sistema único de dados que ligue indicadores de saúde e exames à prática regular de exercícios. No entanto, é fundamental encontrar tempo para se exercitar, mesmo com todas essas dificuldades. A prática regular de exercícios traz inúmeros benefícios para o corpo e a mente, fortalecendo o sistema cardiovascular, melhorando a resistência física e reduzindo o risco de doenças crônicas, entre outros. Mesmo com pouco tempo disponível, é possível aproveitar oportunidades e colher os benefícios de uma vida mais saudável.</string>
+    <string name="paragrafo_sobre2">"A prática regular de exercícios físicos traz benefícios para o corpo e a mente, mesmo com os desafios enfrentados. Fortalece o sistema cardiovascular, melhora a resistência física e reduz o risco de doenças crônicas. Contribui para o aumento da força muscular, proteção das articulações e postura adequada. Alivia o estresse, ansiedade e melhora a qualidade do sono, proporcionando bem-estar. Estimula a produção de endorfinas, promovendo saúde mental e equilíbrio emocional. Mesmo pequenas quantidades de exercícios têm efeitos positivos na saúde e podem ser incorporadas na rotina. O RecifeFit busca solucionar problemas de acesso a locais de prática de exercícios físicos. Oferece informações sobre locais disponíveis e como acessá-los, facilitando a prática regular de atividades físicas. Também ajuda a superar a distância de casa para os locais de exercícios, tornando a prática mais acessível. Além disso, o RecifeFit busca integrar indicadores de saúde e exames com a prática regular de exercícios. Isso permite um acompanhamento mais completo da saúde e dos benefícios da atividade física. É possível encontrar opções prazerosas de atividades físicas, como dança, natação, ciclismo, ioga, entre outros. Mesmo com todas as dificuldades, é fundamental encontrar tempo para se exercitar e colher os benefícios para uma vida mais saudável e equilibrada. "</string>
+</resources>
